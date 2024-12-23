@@ -20,6 +20,10 @@ O objetivo do projeto é gerar um identificador único que possa ser obtido de f
 ![Results](image-1.png)
 ![AgrupamentoDosResultados](image-2.png)
 
+## Vídeo de Apresentação
+
+[Video de Apresentação](https://www.youtube.com/watch?v=AGWw7xzd05Q)
+
 ## Instalação
 
 **Linguagem**: JavaScript<br>

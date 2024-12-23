@@ -1,45 +1,31 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Identificador de Placa por Timestamp
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: D&C<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                          |
+| ---------- | ------------------------------ |
+| 19/0115564 | Pedro Lucas Siqueira Fernandes |
+| 19/0030755 | João Paulo Lima da Silva       |
+
+## Sobre
+
+O objetivo do projeto é gerar um identificador único que possa ser obtido de forma simples através da multiplicação de Karatsuba entre a Placa do Veículo com o timestamp no momento do registro, podendo assim ser decomposto para identificar a placa e o timestamp.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+![HowToRun](image.png)
+![Results](image-1.png)
+![AgrupamentoDosResultados](image-2.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+## Instalação
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+**Linguagem**: JavaScript<br>
 
+É necessário ter o node instalado.
 
+## Uso
 
-
+A Execução é bem simples, basta executar node _nomeDoArquivo_ (index.js) que será gerado um arquivo JSON com as respostas das placas que estão presentes na variável plates, que pode ser alterada livremente.

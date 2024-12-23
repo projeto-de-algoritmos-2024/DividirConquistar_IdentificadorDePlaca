@@ -1,0 +1,369 @@
+{
+    "results": [
+        {
+            "plate": "ABC1234",
+            "timestamp": 1734952407,
+            "vehicleId": "1754247218697110238"
+        },
+        {
+            "plate": "XYZ9876",
+            "timestamp": 1734952407,
+            "vehicleId": "5784955692670421532"
+        },
+        {
+            "plate": "BRA0A23",
+            "timestamp": 1734952407,
+            "vehicleId": "19554650354153312361"
+        },
+        {
+            "plate": "CAR123A",
+            "timestamp": 1734952407,
+            "vehicleId": "20997629853463030170"
+        },
+        {
+            "plate": "JKL4567",
+            "timestamp": 1734952407,
+            "vehicleId": "3331480884973112769"
+        },
+        {
+            "plate": "TAX1234",
+            "timestamp": 1734952407,
+            "vehicleId": "5049286179595580238"
+        },
+        {
+            "plate": "POL9876",
+            "timestamp": 1734952407,
+            "vehicleId": "4379401349663441532"
+        },
+        {
+            "plate": "CAM1234",
+            "timestamp": 1734952407,
+            "vehicleId": "2099676242930810238"
+        },
+        {
+            "plate": "MOT0001",
+            "timestamp": 1734952407,
+            "vehicleId": "3859037291100982407"
+        },
+        {
+            "plate": "ABC-1234",
+            "timestamp": 1734952407,
+            "vehicleId": "1754247218697110238"
+        },
+        {
+            "plate": "123-XYZ",
+            "timestamp": 1734952407,
+            "vehicleId": "213977639916828045"
+        },
+        {
+            "plate": "4567-AB",
+            "timestamp": 1734952407,
+            "vehicleId": "79237030464573477"
+        },
+        {
+            "plate": "TX-78654",
+            "timestamp": 1734952407,
+            "vehicleId": "508998001919720178"
+        },
+        {
+            "plate": "GB12ABC",
+            "timestamp": 1734952407,
+            "vehicleId": "279521827621091776584"
+        },
+        {
+            "plate": "D-AB123",
+            "timestamp": 1734952407,
+            "vehicleId": "227298063192623061"
+        },
+        {
+            "plate": "A1234B",
+            "timestamp": 1734952407,
+            "vehicleId": "17563636281500277"
+        },
+        {
+            "plate": "123-XY",
+            "timestamp": 1734952407,
+            "vehicleId": "2139775791934938"
+        },
+        {
+            "plate": "ABC1111",
+            "timestamp": 1734952407,
+            "vehicleId": "1754247005297964177"
+        },
+        {
+            "plate": "XYZ9999",
+            "timestamp": 1734952407,
+            "vehicleId": "5784955906069567593"
+        },
+        {
+            "plate": "TEST123",
+            "timestamp": 1734952407,
+            "vehicleId": "50561421533738549061"
+        },
+        {
+            "plate": "AB12CD3",
+            "timestamp": 1734952407,
+            "vehicleId": "17542471827835954131"
+        },
+        {
+            "plate": "XX00XX0",
+            "timestamp": 1734952407,
+            "vehicleId": "57826021551273725310"
+        },
+        {
+            "plate": "AB-C123",
+            "timestamp": 1734952407,
+            "vehicleId": "175424721175730061"
+        }
+    ],
+    "groupedByRegion": {
+        "Brasil": [
+            {
+                "plate": "ABC1234",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247218697110238"
+            },
+            {
+                "plate": "XYZ9876",
+                "timestamp": 1734952407,
+                "vehicleId": "5784955692670421532"
+            },
+            {
+                "plate": "JKL4567",
+                "timestamp": 1734952407,
+                "vehicleId": "3331480884973112769"
+            },
+            {
+                "plate": "TAX1234",
+                "timestamp": 1734952407,
+                "vehicleId": "5049286179595580238"
+            },
+            {
+                "plate": "POL9876",
+                "timestamp": 1734952407,
+                "vehicleId": "4379401349663441532"
+            },
+            {
+                "plate": "CAM1234",
+                "timestamp": 1734952407,
+                "vehicleId": "2099676242930810238"
+            },
+            {
+                "plate": "MOT0001",
+                "timestamp": 1734952407,
+                "vehicleId": "3859037291100982407"
+            },
+            {
+                "plate": "ABC1111",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247005297964177"
+            },
+            {
+                "plate": "XYZ9999",
+                "timestamp": 1734952407,
+                "vehicleId": "5784955906069567593"
+            }
+        ],
+        "Estados Unidos": [
+            {
+                "plate": "ABC1234",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247218697110238"
+            },
+            {
+                "plate": "XYZ9876",
+                "timestamp": 1734952407,
+                "vehicleId": "5784955692670421532"
+            },
+            {
+                "plate": "BRA0A23",
+                "timestamp": 1734952407,
+                "vehicleId": "19554650354153312361"
+            },
+            {
+                "plate": "CAR123A",
+                "timestamp": 1734952407,
+                "vehicleId": "20997629853463030170"
+            },
+            {
+                "plate": "JKL4567",
+                "timestamp": 1734952407,
+                "vehicleId": "3331480884973112769"
+            },
+            {
+                "plate": "TAX1234",
+                "timestamp": 1734952407,
+                "vehicleId": "5049286179595580238"
+            },
+            {
+                "plate": "POL9876",
+                "timestamp": 1734952407,
+                "vehicleId": "4379401349663441532"
+            },
+            {
+                "plate": "CAM1234",
+                "timestamp": 1734952407,
+                "vehicleId": "2099676242930810238"
+            },
+            {
+                "plate": "MOT0001",
+                "timestamp": 1734952407,
+                "vehicleId": "3859037291100982407"
+            },
+            {
+                "plate": "123-XYZ",
+                "timestamp": 1734952407,
+                "vehicleId": "213977639916828045"
+            },
+            {
+                "plate": "4567-AB",
+                "timestamp": 1734952407,
+                "vehicleId": "79237030464573477"
+            },
+            {
+                "plate": "GB12ABC",
+                "timestamp": 1734952407,
+                "vehicleId": "279521827621091776584"
+            },
+            {
+                "plate": "A1234B",
+                "timestamp": 1734952407,
+                "vehicleId": "17563636281500277"
+            },
+            {
+                "plate": "123-XY",
+                "timestamp": 1734952407,
+                "vehicleId": "2139775791934938"
+            },
+            {
+                "plate": "ABC1111",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247005297964177"
+            },
+            {
+                "plate": "XYZ9999",
+                "timestamp": 1734952407,
+                "vehicleId": "5784955906069567593"
+            },
+            {
+                "plate": "TEST123",
+                "timestamp": 1734952407,
+                "vehicleId": "50561421533738549061"
+            },
+            {
+                "plate": "AB12CD3",
+                "timestamp": 1734952407,
+                "vehicleId": "17542471827835954131"
+            },
+            {
+                "plate": "XX00XX0",
+                "timestamp": 1734952407,
+                "vehicleId": "57826021551273725310"
+            }
+        ],
+        "Europa": [
+            {
+                "plate": "ABC1234",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247218697110238"
+            },
+            {
+                "plate": "XYZ9876",
+                "timestamp": 1734952407,
+                "vehicleId": "5784955692670421532"
+            },
+            {
+                "plate": "BRA0A23",
+                "timestamp": 1734952407,
+                "vehicleId": "19554650354153312361"
+            },
+            {
+                "plate": "CAR123A",
+                "timestamp": 1734952407,
+                "vehicleId": "20997629853463030170"
+            },
+            {
+                "plate": "JKL4567",
+                "timestamp": 1734952407,
+                "vehicleId": "3331480884973112769"
+            },
+            {
+                "plate": "TAX1234",
+                "timestamp": 1734952407,
+                "vehicleId": "5049286179595580238"
+            },
+            {
+                "plate": "POL9876",
+                "timestamp": 1734952407,
+                "vehicleId": "4379401349663441532"
+            },
+            {
+                "plate": "CAM1234",
+                "timestamp": 1734952407,
+                "vehicleId": "2099676242930810238"
+            },
+            {
+                "plate": "MOT0001",
+                "timestamp": 1734952407,
+                "vehicleId": "3859037291100982407"
+            },
+            {
+                "plate": "GB12ABC",
+                "timestamp": 1734952407,
+                "vehicleId": "279521827621091776584"
+            },
+            {
+                "plate": "D-AB123",
+                "timestamp": 1734952407,
+                "vehicleId": "227298063192623061"
+            },
+            {
+                "plate": "A1234B",
+                "timestamp": 1734952407,
+                "vehicleId": "17563636281500277"
+            },
+            {
+                "plate": "ABC1111",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247005297964177"
+            },
+            {
+                "plate": "XYZ9999",
+                "timestamp": 1734952407,
+                "vehicleId": "5784955906069567593"
+            },
+            {
+                "plate": "TEST123",
+                "timestamp": 1734952407,
+                "vehicleId": "50561421533738549061"
+            },
+            {
+                "plate": "AB12CD3",
+                "timestamp": 1734952407,
+                "vehicleId": "17542471827835954131"
+            },
+            {
+                "plate": "XX00XX0",
+                "timestamp": 1734952407,
+                "vehicleId": "57826021551273725310"
+            }
+        ],
+        "Outros": [
+            {
+                "plate": "ABC-1234",
+                "timestamp": 1734952407,
+                "vehicleId": "1754247218697110238"
+            },
+            {
+                "plate": "TX-78654",
+                "timestamp": 1734952407,
+                "vehicleId": "508998001919720178"
+            },
+            {
+                "plate": "AB-C123",
+                "timestamp": 1734952407,
+                "vehicleId": "175424721175730061"
+            }
+        ]
+    }
+}
